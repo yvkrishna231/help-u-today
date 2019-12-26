@@ -1,0 +1,196 @@
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    height: 40vmin;
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #09d3ac;
+}
+
+/* navbar component styles*/
+.highlight{
+color: #09d3ac;
+}
+
+/*second component styles */
+
+.shield {
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+}
+#lineptag{
+    border-bottom: 1px solid lightgray;
+    line-height: 0.1em;
+    margin-top: 18px;
+    margin-bottom: 25px;
+}
+
+#linespantag{
+    padding: 6px;
+    background-color: whitesmoke;
+}
+
+.text {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    padding: 23px;
+    transform: translate(-50%,-50%);
+}
+
+#formInput{
+    border-radius: 10px;
+    padding: 23px;
+    
+}
+
+#formButton{
+    width: 290px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+.mb-5{
+    color: lightslategray;
+}
+.bottomcreateaccountname{
+    color: lightslategray;
+}
+
+/*second component styles upto here */
+
+
+
+/* first-page content starts*/
+
+
+#image{
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 10px;
+}
+
+#h1tag{
+    font-weight: bold;
+    margin-bottom: 22px;
+}
+#googlebutton{
+    width: 290px;
+    padding: 6px;
+    border-radius: 8px;
+    background-color: #fff;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#itag{
+    font-size: 25px;
+}
+#googlesmalltag{
+    font-size: 100%;
+    font-weight: 300;
+    margin-left: 4px;
+}
+#inputfield1{
+    border-radius: 10px;
+    padding: 22px;
+}
+#inputfield2{
+    border-radius: 10px;
+    padding: 22px;
+    /* display:none; */
+}
+#lineptag{
+    border-bottom: 1px solid lightgray;
+    line-height: 0.1em;
+    margin-top: 18px;
+    margin-bottom: 25px;
+}
+
+#linespantag{
+    padding: 6px;
+    background-color: whitesmoke;
+}
+#inputbutton{
+    margin-top: 15px;
+    border-radius: 8px;
+    font-size: 17px;
+}
+
+.checkboxsmalltag{
+    color: lightslategrey;
+    margin-left: 5px;
+    font-size: 14px;
+}
+.checkboxinput{
+    margin-top: 37px;
+}
+#createaccountdivtag{
+    margin-top: 40px;
+    margin-bottom: 50px;
+    
+}
+#createaccountsmalltag{
+    color: lightslategray;
+    font-size: 14px;
+}
+
+#bottomsmalltag{
+    margin-right: 10px;
+    /* font-weight: 400; */
+    font-size: 10px;
+}
+#bottomsmalltag1{
+    margin-right: 10px;
+    margin-left: 10px;
+    /* font-weight: 400; */
+    font-size: 10px;
+}
+#bottomsmalltag2{
+    margin-right: 10px;
+    margin-left: 10px;
+    /* font-weight: 400; */
+    font-size: 10px;
+}
+#lastterm{
+    border-right:1px solid lightslategray;
+    color: lightslategray;
+}
+
+#lastterm1{
+    border-right:1px solid lightslategray;
+    color: lightslategray;
+
+}
+#lastterm2{
+    color: lightslategray;
+
+}
+
+/* first-page content end*/
+
+
+/*About page*/
+
+#pictures{
+    height: 412px;
+}
